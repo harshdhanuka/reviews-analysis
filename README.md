@@ -3,7 +3,9 @@ This repository contains my work on a detailed analysis of a Women's Clothing co
 
 ### Description of the Data
 This dataset is about the buyer’s reviews of woman’s clothing in e-commerce. The dataset contains the details of customer reviews based on 10 different variables. Along with the review written by the customer, there is demographic information as well. For example, the age of the customer. The specificity of the reviews i.e. the dimensions the customer reviews the clothing item (recommend or not, division name, department name), will make it easier to analyze the data on different dimensions.
+
 This dataset includes 23,486 rows and 10 feature variables.
+
 Data Source: Kaggle CC0: Public Domain, Owner - https://www.kaggle.com/nicapotato  
 Data Link: https://www.kaggle.com/nicapotato/womens-ecommerce-clothing-reviews
 
