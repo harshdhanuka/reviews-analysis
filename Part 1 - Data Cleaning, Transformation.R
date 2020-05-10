@@ -2,8 +2,6 @@
 
 # Clean and Prepare Dataset for Analysis and Prediction
 
-# DATA SET - https://www.kaggle.com/nicapotato/womens-ecommerce-clothing-reviews
-
 # The aim is to Predict the Rating of the clothes.
 
 
