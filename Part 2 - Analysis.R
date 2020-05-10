@@ -1,8 +1,8 @@
 
-# Team FINANCE 3
 
 # Project Deliverable 2  -  Perform analysis on the dataset and build graphical representatons, predictions, etc.
-# DATA SET - https://www.kaggle.com/nicapotato/womens-ecommerce-clothing-reviews
+
+
 
 # The OBJECTIVE is to perform exploratory analysis, predict the rating of the clothes, and do clustering analysis.
 # Line 49   -  SECTION 1: Exploratory Analysis of different variables
